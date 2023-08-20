@@ -72,7 +72,7 @@ For windows, you can install the dependencies using MinGW.
 With the necessary libraries installed, you can build this project by using the build.sh script file or the batch
 file and finally using 'make' command.
 
-   ```
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
