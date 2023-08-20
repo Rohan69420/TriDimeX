@@ -3,7 +3,7 @@
 int POS_X, POS_Y;
 
 //loading the OBJ model file
-std::string model_name = "Models/Timothecombined.obj";
+std::string model_name = "Models/Watch.obj";
 
 //fixed position of the luminating light
 GLfloat lightingPosition[] = { -10.0f, 10.0f, 100.00f, 1.0f };
