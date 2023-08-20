@@ -1,0 +1,1 @@
+sudo apt-get install mesa-common-dev libglu1-mesa-dev freeglut3-dev
