@@ -31,7 +31,7 @@
 *.app
 
 #Models folder
-Models/ 
+#Models/ 
 
 #App images 
 *.AppImage
