@@ -33,7 +33,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="Images/App.png" alt="App" width="100" height="100">
+<img src="Images/App.png" alt="App" >
 
 This project is a fifth-semester project for Computer Graphics. It is a demonstration of the 3D capabilities of OpenGL. The primary application of this project lies in its usage as a viewer for the 3D WaveFront models that can be created using modern smartphone applications.
 
